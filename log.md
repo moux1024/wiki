@@ -14,12 +14,12 @@
 - 标签: Codex, OpenAI, 产品管理, AI Agent, 敏捷, 团队管理
 - 更新了 1 个相关页面: LLM Wiki（添加交叉引用）
 
-## [2026-04-15] ingest | 5分钟学习Hermes-Agent指南
+## [2026-04-15] ingest | 5分钟学习Hermes-Agent指南 (重写)
 
 - 来源: https://mp.weixin.qq.com/s?__biz=MzI1NzUwOTY4OA==&mid=2247485104&idx=1&sn=c53bb1971e67a3499b73ac436dbb6a9d
 - 分类: AI
-- 标签: Hermes Agent, Nous Research, AI Agent, 自我进化, 自主决策, 持续学习
-- 更新了 1 个相关页面: 大纲.md（添加新条目）
+- 标签: Hermes Agent, Nous Research, AI Agent, 自我进化, Skills, MCP, 多平台, 记忆系统
+- 重写完整内容（原文13章全覆盖），更新交叉引用
 
 ## [2026-04-08] ingest | awesome-design-md — 网站设计系统 DESIGN.md 集合
 
