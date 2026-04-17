@@ -235,6 +235,7 @@ hermes config set terminal.backend docker  # 切换后端
 ## 相关页面
 
 - [[LLM-Wiki-用LLM构建个人知识库的模式]]
+- [[卡片式对话的协议方案探索和思考]] — 同样涉及 MCP 协议，侧重卡片式 UI 交互协议设计
 
 ---
 

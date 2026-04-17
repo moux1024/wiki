@@ -27,3 +27,10 @@
 - 分类: 工具链
 - 标签: DESIGN.md, 设计系统, AI coding, UI
 - 更新了 1 个相关页面: LLM Wiki（添加交叉引用）
+
+## [2026-04-17] ingest | 卡片式对话的协议方案探索和思考
+
+- 来源: https://mp.weixin.qq.com/s/-aPwcWt076X0B-sEXIeTAg
+- 分类: 前端技术
+- 标签: Agent, 卡片交互, Markdown, MCP, A2UI, 协议设计, 流式渲染, Tool-Call
+- 更新了 1 个相关页面: Hermes-Agent自我进化AI-Agent指南（添加交叉引用）
