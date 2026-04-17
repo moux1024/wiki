@@ -66,6 +66,7 @@
 
 - [[Codex团队如何用自己的产品构建产品]]
 - [[awesome-design-md — 网站设计系统 DESIGN.md 集合]]
+- [[AmphiLoop-两栖模式构建Agent]] — TASK.md 的自然语言任务描述与 LLM Wiki 的知识管理思想有相通之处
 
 ---
 

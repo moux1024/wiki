@@ -28,6 +28,13 @@
 - 标签: DESIGN.md, 设计系统, AI coding, UI
 - 更新了 1 个相关页面: LLM Wiki（添加交叉引用）
 
+## [2026-04-17] ingest | AmphiLoop — 两栖模式构建Agent
+
+- 来源: https://mp.weixin.qq.com/s/KKHWWzJqeKR1fF6EsXheLQ
+- 分类: AI
+- 标签: Agent, Amphiflow, Workflow, 两栖模式, 自动化, Claude Code, Bridgic, AmphiLoop
+- 更新了 2 个相关页面: Hermes-Agent自我进化AI-Agent指南, LLM-Wiki-用LLM构建个人知识库的模式
+
 ## [2026-04-17] ingest | 卡片式对话的协议方案探索和思考
 
 - 来源: https://mp.weixin.qq.com/s/-aPwcWt076X0B-sEXIeTAg
