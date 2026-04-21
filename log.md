@@ -41,3 +41,10 @@
 - 分类: 前端技术
 - 标签: Agent, 卡片交互, Markdown, MCP, A2UI, 协议设计, 流式渲染, Tool-Call
 - 更新了 1 个相关页面: Hermes-Agent自我进化AI-Agent指南（添加交叉引用）
+
+## [2026-04-21] ingest | OpenCLI
+
+- 来源: https://github.com/jackwener/opencli
+- 分类: 工具链
+- 标签: cli, ai-agent, 浏览器自动化, 工具链, npm
+- 更新了 0 个相关页面
