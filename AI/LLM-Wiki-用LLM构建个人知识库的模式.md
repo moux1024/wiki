@@ -67,6 +67,7 @@
 - [[Codex团队如何用自己的产品构建产品]]
 - [[awesome-design-md — 网站设计系统 DESIGN.md 集合]]
 - [[AmphiLoop-两栖模式构建Agent]] — TASK.md 的自然语言任务描述与 LLM Wiki 的知识管理思想有相通之处
+- [[Claudian-Obsidian中嵌入AI编码Agent的插件]] — 在 Obsidian Vault 中嵌入 AI Agent，与 LLM Wiki 的 Obsidian 知识管理场景直接相关
 
 ---
 

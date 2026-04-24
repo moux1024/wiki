@@ -48,3 +48,10 @@
 - 分类: 工具链
 - 标签: cli, ai-agent, 浏览器自动化, 工具链, npm
 - 更新了 0 个相关页面
+
+## [2026-04-24] ingest | Claudian — Obsidian 中嵌入 AI 编码 Agent 的插件
+
+- 来源: https://github.com/YishenTu/claudian
+- 分类: 工具链
+- 标签: Obsidian, Claude Code, Codex, AI Agent, MCP, 插件, 编码助手, 知识管理
+- 更新了 3 个相关页面: Hermes-Agent自我进化AI-Agent指南, AmphiLoop-两栖模式构建Agent, LLM-Wiki-用LLM构建个人知识库的模式

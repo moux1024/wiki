@@ -101,6 +101,7 @@ GitHub: https://github.com/bitsky-tech/AmphiLoop/
 
 - [[Hermes-Agent自我进化AI-Agent指南]] — 同为 Agent 框架，但设计理念不同：Hermes 侧重自我进化，AmphiLoop 侧重两栖模式切换
 - [[LLM-Wiki-用LLM构建个人知识库的模式]] — TASK.md 的自然语言任务描述与 LLM Wiki 的知识管理思想有相通之处
+- [[Claudian-Obsidian中嵌入AI编码Agent的插件]] — Obsidian 插件将 Claude Code 嵌入 Vault，与 AmphiLoop 的 Claude Code 集成有技术关联
 
 ---
 
