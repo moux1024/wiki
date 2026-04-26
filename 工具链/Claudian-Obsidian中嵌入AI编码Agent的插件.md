@@ -129,6 +129,7 @@ MIT License
 - [[Hermes-Agent自我进化AI-Agent指南]]
 - [[AmphiLoop-两栖模式构建Agent]]
 - [[LLM-Wiki-用LLM构建个人知识库的模式]]
+- [[工程技术-在智能体优先的世界中利用Codex]] — OpenAI 团队用 Codex 智能体构建产品的工程实践，Claudian 将类似能力带入 Obsidian
 
 ---
 

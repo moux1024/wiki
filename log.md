@@ -55,3 +55,10 @@
 - 分类: 工具链
 - 标签: Obsidian, Claude Code, Codex, AI Agent, MCP, 插件, 编码助手, 知识管理
 - 更新了 3 个相关页面: Hermes-Agent自我进化AI-Agent指南, AmphiLoop-两栖模式构建Agent, LLM-Wiki-用LLM构建个人知识库的模式
+
+## [2026-04-26] ingest | 工程技术：在智能体优先的世界中利用 Codex
+
+- 来源: https://openai.com/zh-Hans-CN/index/harness-engineering/
+- 分类: 方法论
+- 标签: AI, 智能体, Codex, 软件工程, 架构, 自动化
+- 更新了 2 个相关页面: Codex团队如何用自己的产品构建产品, Claudian-Obsidian中嵌入AI编码Agent的插件
