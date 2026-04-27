@@ -130,6 +130,7 @@ MIT License
 - [[AmphiLoop-两栖模式构建Agent]]
 - [[LLM-Wiki-用LLM构建个人知识库的模式]]
 - [[工程技术-在智能体优先的世界中利用Codex]] — OpenAI 团队用 Codex 智能体构建产品的工程实践，Claudian 将类似能力带入 Obsidian
+- [[6个让Agent技能稳定生效的模式]] — Claude Code/Codex 技能文件编写的 6 个核心模式，Claudian 的技能系统直接受益于这些模式
 
 ---
 

@@ -62,3 +62,10 @@
 - 分类: 方法论
 - 标签: AI, 智能体, Codex, 软件工程, 架构, 自动化
 - 更新了 2 个相关页面: Codex团队如何用自己的产品构建产品, Claudian-Obsidian中嵌入AI编码Agent的插件
+
+## [2026-04-27] ingest | 6个让Agent技能稳定生效的模式
+
+- 来源: https://mp.weixin.qq.com/s/pmWgZ1XGM0FnUZBstrLdjA
+- 分类: 方法论
+- 标签: Agent, Skill, Claude Code, Codex, 提示工程, 最佳实践, 自动化
+- 更新了 4 个相关页面: 工程技术-在智能体优先的世界中利用Codex, Codex团队如何用自己的产品构建产品, Hermes-Agent自我进化AI-Agent指南, Claudian-Obsidian中嵌入AI编码Agent的插件
