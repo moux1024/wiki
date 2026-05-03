@@ -69,3 +69,11 @@
 - 分类: 方法论
 - 标签: Agent, Skill, Claude Code, Codex, 提示工程, 最佳实践, 自动化
 - 更新了 4 个相关页面: 工程技术-在智能体优先的世界中利用Codex, Codex团队如何用自己的产品构建产品, Hermes-Agent自我进化AI-Agent指南, Claudian-Obsidian中嵌入AI编码Agent的插件
+
+## [2026-05-03] ingest | React如何实现乱序流式渲染并保持顺序一致
+
+- 来源: https://inside-react.vercel.app/blog/how-react-streams-ui-out-of-order
+- 分类: 前端技术
+- 标签: React, Streaming, Suspense, Server Components, Out-of-Order, 性能优化
+- 更新了 1 个相关页面: 卡片式对话的协议方案探索和思考（添加交叉引用）
+- 备注: 原文站点不可达，基于多个来源综合整理
