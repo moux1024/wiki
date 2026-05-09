@@ -1,5 +1,13 @@
 # 知识库日志
 
+## [2026-05-09] ingest | 大厂打包了 harness，sandbox 公司快死了
+
+- 来源: http://xhslink.com/o/Aan5SY0DE6T (小红书)
+- 分类: AI
+- 标签: Agent, Anthropic, OpenAI, Sandbox, Agent Infra, 创业
+- 更新了 1 个相关页面
+- 备注: 原文为 13 张截图，经 OCR 提取并校正技术术语
+
 ## [2026-04-08] ingest | LLM Wiki — 用 LLM 构建个人知识库的模式
 
 - 来源: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
