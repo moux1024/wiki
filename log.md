@@ -78,6 +78,13 @@
 - 标签: Agent, Skill, Claude Code, Codex, 提示工程, 最佳实践, 自动化
 - 更新了 4 个相关页面: 工程技术-在智能体优先的世界中利用Codex, Codex团队如何用自己的产品构建产品, Hermes-Agent自我进化AI-Agent指南, Claudian-Obsidian中嵌入AI编码Agent的插件
 
+## [2026-05-11] ingest | Everything is a Ralph Loop
+
+- 来源: https://ghuntley.com/loop/
+- 分类: 方法论
+- 标签: AI编程, Ralph循环, 编码代理, 软件工厂, 进化式软件, 自动化开发
+- 更新了 4 个相关页面
+
 ## [2026-05-03] ingest | React如何实现乱序流式渲染并保持顺序一致
 
 - 来源: https://inside-react.vercel.app/blog/how-react-streams-ui-out-of-order
