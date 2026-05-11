@@ -68,6 +68,7 @@
 - [[awesome-design-md — 网站设计系统 DESIGN.md 集合]]
 - [[AmphiLoop-两栖模式构建Agent]] — TASK.md 的自然语言任务描述与 LLM Wiki 的知识管理思想有相通之处
 - [[Claudian-Obsidian中嵌入AI编码Agent的插件]] — 在 Obsidian Vault 中嵌入 AI Agent，与 LLM Wiki 的 Obsidian 知识管理场景直接相关
+- [[Hermes-Agent-自改进AI-Agent框架]] — Hermes 的 MEMORY.md + Honcho 记忆系统与 LLM Wiki 的知识管理思想相通，均追求 Agent 驱动的持久化知识
 
 ---
 

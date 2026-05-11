@@ -42,6 +42,7 @@ Ralph 是一种 orchestrator 模式，你分配一个包含所需支撑规格的
 - [[Codex团队如何用自己的产品构建产品]] — 同为 AI 时代的团队实践，本文侧重个人方法论和循环模式，另一篇侧重团队如何用 Agent 构建产品
 - [[6个让Agent技能稳定生效的模式]] — 本文的 context 工程思想与 Agent 技能编写模式互补，共同构成 AI 编程方法论
 - [[AmphiLoop-两栖模式构建Agent]] — 同为"循环"范式，本文的 Ralph Loop 侧重单进程单体循环，AmphiLoop 侧重 Workflow/Agent 两栖模式切换
+- [[Hermes-Agent-自改进AI-Agent框架]] — Hermes Agent 的单体单进程设计直接受 Ralph Loop 哲学影响，是该思想的工程实践
 
 ---
 

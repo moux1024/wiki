@@ -133,6 +133,7 @@ Anthropic 官方技能（frontend-design、code-review、security-guidance）都
 - [[Claudian-Obsidian中嵌入AI编码Agent的插件]] — Claudian 将 Claude Code/Codex 等 Agent 嵌入 Obsidian，其技能系统直接受益于本文所述模式
 - [[Hermes-Agent自我进化AI-Agent指南]] — Hermes Agent 的技能学习机制是本文模式的进阶实践
 - [[everything-is-a-ralph-loop]] — Ralph Loop 的 context 工程思想与本文的技能编写模式互补，共同构成 AI 编程方法论
+- [[Hermes-Agent-自改进AI-Agent框架]] — Hermes 的 Skills 自创机制是本文所述模式的进阶实践，Agent 能自动创建并改进 Python 工具
 
 ---
 

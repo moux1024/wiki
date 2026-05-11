@@ -85,6 +85,13 @@
 - 标签: AI编程, Ralph循环, 编码代理, 软件工厂, 进化式软件, 自动化开发
 - 更新了 4 个相关页面
 
+## [2026-05-11] ingest | Hermes Agent — 自改进 AI Agent 框架（架构深度解析）
+
+- 来源: https://deepwiki.com/nousresearch/hermes-agent
+- 分类: AI
+- 标签: AI Agent, Agent框架, NousResearch, Hermes, 工具调用, 持久记忆, Skills系统, MCP, ACP
+- 更新了 7 个相关页面
+
 ## [2026-05-03] ingest | React如何实现乱序流式渲染并保持顺序一致
 
 - 来源: https://inside-react.vercel.app/blog/how-react-streams-ui-out-of-order
