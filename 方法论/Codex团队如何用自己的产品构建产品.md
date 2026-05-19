@@ -127,6 +127,7 @@ Codex 团队的极简管理方式建立在一个特殊条件上：
 - [[工程技术-在智能体优先的世界中利用Codex]] — 同为 OpenAI Codex 实践文章，本文侧重产品管理和团队协作视角，另一篇侧重工程技术细节（架构约束、情境管理、端到端自主）
 - [[6个让Agent技能稳定生效的模式]] — Agent 技能文件的编写最佳实践，与本文的团队实践视角互补
 - [[everything-is-a-ralph-loop]] — Ralph Loop 的循环思维与本文的 Agent 驱动团队实践互补，本文侧重团队管理，Ralph 侧重个人编程方法论
+- [[Claude-Code在大型代码库中的最佳实践]] — Anthropic 官方 Claude Code 大规模部署指南，与本文的 Codex 团队实践形成对照，分别代表 Anthropic 和 OpenAI 的企业级 Agent 工具方法论
 
 ---
 

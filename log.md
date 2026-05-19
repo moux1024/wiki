@@ -1,5 +1,12 @@
 # 知识库日志
 
+## [2026-05-19] ingest | Claude Code 在大型代码库中的最佳实践
+
+- 来源: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
+- 分类: 方法论
+- 标签: Claude Code, 大型代码库, 最佳实践, Agent, CLAUDE.md, Skills, Hooks, MCP, LSP, 插件, 企业部署
+- 更新了 6 个相关页面
+
 ## [2026-05-09] ingest | 大厂打包了 harness，sandbox 公司快死了
 
 - 来源: http://xhslink.com/o/Aan5SY0DE6T (小红书)

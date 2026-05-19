@@ -104,6 +104,7 @@ GitHub: https://github.com/bitsky-tech/AmphiLoop/
 - [[Claudian-Obsidian中嵌入AI编码Agent的插件]] — Obsidian 插件将 Claude Code 嵌入 Vault，与 AmphiLoop 的 Claude Code 集成有技术关联
 - [[everything-is-a-ralph-loop]] — 同为"循环"范式，Ralph Loop 侧重单进程单体循环和进化式软件，AmphiLoop 侧重 Workflow/Agent 两栖模式切换
 - [[Hermes-Agent-自改进AI-Agent框架]] — Hermes 架构深度解析，同样采用单体单进程设计（受 Ralph Loop 哲学影响）
+- [[Claude-Code在大型代码库中的最佳实践]] — Claude Code 的 Subagent 模式与 AmphiLoop 的两栖模式都涉及 Agent 实例的协作分工，可对照阅读
 
 ---
 

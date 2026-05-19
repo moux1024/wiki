@@ -180,6 +180,7 @@
 - [[Codex团队如何用自己的产品构建产品]] — 同为 OpenAI Codex 实践文章，侧重产品管理和团队协作视角，本文侧重工程技术细节
 - [[6个让Agent技能稳定生效的模式]] — Claude Code/Codex 技能文件编写的 6 个核心模式，与本文的架构约束互补
 - [[everything-is-a-ralph-loop]] — Ralph Loop 循环思维与本文的端到端自主理念相通，本文侧重工程实践，Ralph 侧重循环范式和进化式软件
+- [[Claude-Code在大型代码库中的最佳实践]] — Anthropic 官方 Claude Code 企业部署指南，本文侧重 Codex 工程实践，另一篇覆盖更完整的 Harness 体系（CLAUDE.md/Hooks/Skills/MCP/LSP）
 
 ---
 
