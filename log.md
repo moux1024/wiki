@@ -106,3 +106,10 @@
 - 标签: React, Streaming, Suspense, Server Components, Out-of-Order, 性能优化
 - 更新了 1 个相关页面: 卡片式对话的协议方案探索和思考（添加交叉引用）
 - 备注: 原文站点不可达，基于多个来源综合整理
+
+## [2026-05-24] ingest | AgentShield：把蜜罐思想搬进 Agent 的工具调用链路
+
+- 来源: https://mp.weixin.qq.com/s/Wvx6x4KzlI0yJYuP7ID7mg
+- 分类: AI
+- 标签: Agent安全, 提示注入, 蜜罐, 工具调用, compromise detection, LLM安全
+- 更新了 1 个相关页面

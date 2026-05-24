@@ -141,6 +141,7 @@ Agent infra 这一战已经是大厂游戏，没有创业公司的位置。
 ## 相关页面
 
 - [[AmphiLoop — 两栖模式构建Agent]]
+- [[AgentShield：把蜜罐思想搬进 Agent 的工具调用链路]] — Agent 安全检测，与 Agent infra 加固互补
 
 ---
 
