@@ -240,6 +240,7 @@ hermes config set terminal.backend docker  # 切换后端
 - [[Claudian-Obsidian中嵌入AI编码Agent的插件]] — 将 Claude Code/Codex 等 Agent 嵌入 Obsidian Vault 的插件，支持 MCP、Skills、行内编辑
 - [[6个让Agent技能稳定生效的模式]] — Claude Code/Codex 技能文件编写的 6 个核心模式，Hermes 的技能学习机制是这些模式的进阶实践
 - [[Hermes-Agent-自改进AI-Agent框架]] — 同一项目的架构深度解析，侧重三层设计、AIAgent 核心组件、闭环学习系统等技术细节
+- [[女娲-skill-认知蒸馏工具]] — 同属 Agent Skills 协议生态，女娲将人类认知蒸馏为 Skill，Hermes 让 Agent 自动创建 Skill，两者方向不同
 
 ---
 

@@ -107,6 +107,13 @@
 - 更新了 1 个相关页面: 卡片式对话的协议方案探索和思考（添加交叉引用）
 - 备注: 原文站点不可达，基于多个来源综合整理
 
+## [2026-06-02] ingest | 女娲.skill — 认知蒸馏工具
+
+- 来源: https://github.com/alchaincyf/nuwa-skill
+- 分类: AI
+- 标签: agent-skills, 认知蒸馏, prompt-engineering, openclaw, claude-code, 心智模型
+- 更新了 5 个相关页面: 6个让Agent技能稳定生效的模式, Hermes-Agent自我进化AI-Agent指南, Hermes-Agent-自改进AI-Agent框架, Claude-Code在大型代码库中的最佳实践, everything-is-a-ralph-loop
+
 ## [2026-05-24] ingest | AgentShield：把蜜罐思想搬进 Agent 的工具调用链路
 
 - 来源: https://mp.weixin.qq.com/s/Wvx6x4KzlI0yJYuP7ID7mg

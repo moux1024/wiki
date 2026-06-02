@@ -120,6 +120,7 @@ Claude 在大型代码库中的帮助能力，受限于其找到正确上下文�
 - [[Everything is a Ralph Loop]]
 - [[Hermes-Agent-自改进AI-Agent框架]]
 - [[AmphiLoop-两栖模式构建Agent]]
+- [[女娲-skill-认知蒸馏工具]] — 将名人认知蒸馏为 Agent Skill，Claude Code 的 Skills 体系是其运行环境之一
 
 ---
 

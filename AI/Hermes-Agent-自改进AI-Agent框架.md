@@ -124,6 +124,7 @@ Agent 可以**创建新的 Python 工具（Skills）**并通过 `skill_manage` �
 - [[LLM-Wiki-用LLM构建个人知识库的模式]] — Hermes 的 MEMORY.md + Honcho 记忆系统与 LLM Wiki 的知识管理思想相通
 - [[卡片式对话的协议方案探索和思考]] — Hermes 的 ACP 适配器与卡片式交互协议同属 Agent 交互界面设计领域
 - [[Claude-Code在大型代码库中的最佳实践]] — Claude Code 的 Skills/Plugins/LSP/Subagent 体系与 Hermes 的 Skills 自创机制同属 Agent 工具化设计，两篇可互为参考
+- [[女娲-skill-认知蒸馏工具]] — 同属 Agent Skills 协议生态，女娲将人类认知蒸馏为 Skill，Hermes 让 Agent 自动创建 Skill，两者方向不同
 
 ---
 

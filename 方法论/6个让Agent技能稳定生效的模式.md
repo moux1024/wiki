@@ -135,6 +135,7 @@ Anthropic 官方技能（frontend-design、code-review、security-guidance）都
 - [[everything-is-a-ralph-loop]] — Ralph Loop 的 context 工程思想与本文的技能编写模式互补，共同构成 AI 编程方法论
 - [[Hermes-Agent-自改进AI-Agent框架]] — Hermes 的 Skills 自创机制是本文所述模式的进阶实践，Agent 能自动创建并改进 Python 工具
 - [[Claude-Code在大型代码库中的最佳实践]] — Anthropic 官方总结 Claude Code 企业级部署的 Harness 体系（CLAUDE.md/Hooks/Skills/Plugins/MCP），与本文的技能编写模式形成上下位互补
+- [[女娲-skill-认知蒸馏工具]] — 将名人认知蒸馏为 Agent Skill，生成的 Skill 直接应用本文所述编写模式
 
 ---
 
