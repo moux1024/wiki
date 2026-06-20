@@ -120,6 +120,7 @@ Agent 可以**创建新的 Python 工具（Skills）**并通过 `skill_manage` �
 - [[AmphiLoop-两栖模式构建Agent]] — 同为 Agent 框架，Hermes 侧重单体闭环自我进化，AmphiLoop 侧重 Workflow/Agent 两栖模式切换
 - [[Claudian-Obsidian中嵌入AI编码Agent的插件]] — 将 Claude Code/Codex 等 Agent 嵌入 Obsidian，与 Hermes 的 ACP 编辑器集成思路相似
 - [[everything-is-a-ralph-loop]] — Hermes 的单体单进程设计直接受 Ralph Loop 哲学影响
+- [[Memoh — 为每个 AI Agent 提供专属云计算机]] — 同为 Agent 框架，Hermes 侧重单体自我进化，Memoh 侧重多 Agent 容器化部署和长期记忆
 - [[6个让Agent技能稳定生效的模式]] — Hermes 的 Skills 自创机制是这些技能编写模式的进阶实践
 - [[LLM-Wiki-用LLM构建个人知识库的模式]] — Hermes 的 MEMORY.md + Honcho 记忆系统与 LLM Wiki 的知识管理思想相通
 - [[卡片式对话的协议方案探索和思考]] — Hermes 的 ACP 适配器与卡片式交互协议同属 Agent 交互界面设计领域

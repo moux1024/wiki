@@ -238,6 +238,7 @@ hermes config set terminal.backend docker  # 切换后端
 - [[卡片式对话的协议方案探索和思考]] — 同样涉及 MCP 协议，侧重卡片式 UI 交互协议设计
 - [[AmphiLoop-两栖模式构建Agent]] — 同为 Agent 框架，不同路径：Hermes 侧重自我进化与技能学习，AmphiLoop 侧重 Workflow/Agent 两栖模式切换以获得确定性
 - [[Claudian-Obsidian中嵌入AI编码Agent的插件]] — 将 Claude Code/Codex 等 Agent 嵌入 Obsidian Vault 的插件，支持 MCP、Skills、行内编辑
+- [[Memoh — 为每个 AI Agent 提供专属云计算机]] — Memoh 的 Skills & Supermarket 模块化技能系统与 Hermes 的技能学习机制思路相似
 - [[6个让Agent技能稳定生效的模式]] — Claude Code/Codex 技能文件编写的 6 个核心模式，Hermes 的技能学习机制是这些模式的进阶实践
 - [[Hermes-Agent-自改进AI-Agent框架]] — 同一项目的架构深度解析，侧重三层设计、AIAgent 核心组件、闭环学习系统等技术细节
 - [[女娲-skill-认知蒸馏工具]] — 同属 Agent Skills 协议生态，女娲将人类认知蒸馏为 Skill，Hermes 让 Agent 自动创建 Skill，两者方向不同

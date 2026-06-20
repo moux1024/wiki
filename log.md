@@ -1,5 +1,12 @@
 # 知识库日志
 
+## [2026-06-20] ingest | Memoh — 为每个 AI Agent 提供专属云计算机
+
+- 来源: https://github.com/memohai/Memoh
+- 分类: AI
+- 标签: Agent, 多Agent平台, 容器化, 长期记忆, MCP, Browser Use, Computer Use, 自托管, Go
+- 更新了 6 个相关页面
+
 ## [2026-05-19] ingest | Claude Code 在大型代码库中的最佳实践
 
 - 来源: https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start
