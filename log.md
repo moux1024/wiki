@@ -1,5 +1,12 @@
 # 知识库日志
 
+## [2026-06-20] ingest | Nub — Node.js 全合一工具包
+
+- 来源: https://nubjs.com/blog/introducing-nub
+- 分类: 工具链
+- 标签: Node.js, Rust, Bun, 包管理器, TypeScript, DX, 工具链, CLI
+- 更新了 1 个相关页面
+
 ## [2026-06-20] ingest | Memoh — 为每个 AI Agent 提供专属云计算机
 
 - 来源: https://github.com/memohai/Memoh

@@ -77,4 +77,4 @@ npx skills add jackwener/opencli
 
 ## 相关页面
 
-- [[]]
+- [[Nub — Node.js 全合一工具包]]
