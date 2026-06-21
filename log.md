@@ -1,5 +1,12 @@
 # 知识库日志
 
+## [2026-06-21] ingest | Qwen3-VL-Seg: 解锁开放世界指代分割
+
+- 来源: https://mp.weixin.qq.com/s/Dhdq-463NyLOWsdJAchAqg
+- 分类: AI
+- 标签: Qwen3, 视觉语言模型, 指代分割, SAM-free, Box-Guided, MLLM, 多模态, 阿里巴巴, SA-1B
+- 更新了 0 个相关页面
+
 ## [2026-06-20] ingest | Nub — Node.js 全合一工具包
 
 - 来源: https://nubjs.com/blog/introducing-nub
