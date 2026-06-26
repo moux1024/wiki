@@ -66,6 +66,7 @@ MIT
 ## 相关页面
 
 - [[OpenCLI]]
+- [[2026年WebAssembly运行时性能对比]]
 
 ---
 

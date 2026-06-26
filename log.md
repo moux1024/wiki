@@ -1,5 +1,12 @@
 # 知识库日志
 
+## [2026-06-26] ingest | 2026年 WebAssembly 运行时性能对比
+
+- 来源: https://00f.net/2026/06/23/webassembly-runtimes-2026
+- 分类: 工具链
+- 标签: WebAssembly, WASM, runtime, Wasmer, Wasmtime, WAVM, WAMR, Bun, Node.js, 性能基准测试, libsodium, wide_arithmetic, AOT
+- 更新了 1 个相关页面
+
 ## [2026-06-21] ingest | Qwen3-VL-Seg: 解锁开放世界指代分割
 
 - 来源: https://mp.weixin.qq.com/s/Dhdq-463NyLOWsdJAchAqg
